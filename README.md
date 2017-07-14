@@ -35,3 +35,4 @@ Dependencies:
 * scipy
 * matplotlib
 * Python 2.7
+* Other things has to be included as well...

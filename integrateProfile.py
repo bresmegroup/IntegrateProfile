@@ -20,7 +20,7 @@ integrateProfile.py -f table.profile -c [a,b]
             . . . . .
             . . . . .
             
-    
+#    
 """
 
 # TODO: Can read LAMMPS profile type file formats, but cannot read profile types with more than one chunk of data.
